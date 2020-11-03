@@ -9,3 +9,4 @@ const pet = 'cat'
 const qq = 456
 
 console.log('try to edit in vi')
+console.log('try to use terminal only')
