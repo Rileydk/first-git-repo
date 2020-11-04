@@ -12,3 +12,5 @@ console.log('try to edit in vi')
 console.log('try to use terminal only')
 console.log('after changing newlines settings')
 console.log('try again')
+
+console.log('Can you push this to github?')
